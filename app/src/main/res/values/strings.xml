@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ex2evIonutFC</string>
+    <string name="suspensos">Suspensos</string>
+    <string name="aprobados">Aprobados</string>
+    <string name="todos_los_alumnos">Todos los alumnos</string>
+    <string name="calificaciones">Calificaciones</string>
+</resources>
